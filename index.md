@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 [Automation notes](https://abedgnu.github.io/Automation-Notes/)
 
