@@ -2,10 +2,32 @@
 layout: default
 ---
 
-# [Automation notes](https://abedgnu.github.io/Automation-Notes/)
+# Tutorials and documentaion
 
-# [ROS Robot Operating System](https://abedgnu.github.io/Notes-ROS/)
+## [Automation notes](https://abedgnu.github.io/Automation-Notes/)
 
-# [Computer vision]((https://abedgnu.github.io)
+Siemens PLC (TIA Portal):
 
-# https://abedgnu.github.io/Personal-notes/
+    - S7-1200 
+    - S7-1500 tutorials
+
+CoDeSys: 
+
+Work in progress
+
+## [ROS Robot Operating System](https://abedgnu.github.io/Notes-ROS/)
+
+Work in progress
+
+## [Computer vision](https://abedgnu.github.io)
+
+OpenCV and PCL.
+
+Work in progress
+
+## [Personal notes](https://abedgnu.github.io/Personal-notes/)
+
+Work in progress
+
+# Projects
+
