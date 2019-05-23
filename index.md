@@ -19,7 +19,7 @@ Work in progress
 
 Work in progress
 
-## [Computer vision](https://abedgnu.github.io)
+## [Computer vision](https://abedgnu.github.io/ComputerVision-Notes/)
 
 OpenCV and PCL.
 
