@@ -9,7 +9,7 @@ layout: default
 Siemens PLC (TIA Portal):
 
     - S7-1200 
-    - S7-1500 tutorials
+    - S7-1500
 
 CoDeSys: 
 
@@ -21,7 +21,8 @@ Work in progress
 
 ## [Computer vision](https://abedgnu.github.io/ComputerVision-Notes/)
 
-OpenCV and PCL.
+- OpenCV
+- PCL
 
 Work in progress
 
@@ -29,5 +30,5 @@ Work in progress
 
 Work in progress
 
-# Projects
+# Projects (https://github.com/abedGNU)
 
