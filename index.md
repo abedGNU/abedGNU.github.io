@@ -30,5 +30,5 @@ Work in progress
 
 Work in progress
 
-# Projects (https://github.com/abedGNU)
+# [Projects](https://github.com/abedGNU)
 
