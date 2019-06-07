@@ -4,7 +4,7 @@ layout: default
 
 # Tutorials and documentaion
 
-## [Automation notes](https://abedgnu.github.io/Automation-Notes/)
+## Automation notes [on Github](https://abedgnu.github.io/Automation-Notes/) or [Read the Docs](https://automation-notes.readthedocs.io)
 
 Siemens PLC (TIA Portal):
 
@@ -15,7 +15,7 @@ CoDeSys:
 
 Work in progress
 
-## [ROS Robot Operating System](https://abedgnu.github.io/Notes-ROS/)
+## ROS Robot Operating System on [Github](https://abedgnu.github.io/Notes-ROS/)
 
 Work in progress
 
