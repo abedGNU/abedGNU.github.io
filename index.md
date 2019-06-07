@@ -4,7 +4,9 @@ layout: default
 
 # Tutorials and documentaion
 
-## Automation notes [on Github](https://abedgnu.github.io/Automation-Notes/) or [Read the Docs](https://automation-notes.readthedocs.io)
+## Automation notes
+
+[Github](https://abedgnu.github.io/Automation-Notes/) or [Read the Docs](https://automation-notes.readthedocs.io)
 
 Siemens PLC (TIA Portal):
 
@@ -15,20 +17,26 @@ CoDeSys:
 
 Work in progress
 
-## ROS Robot Operating System on [Github](https://abedgnu.github.io/Notes-ROS/)
+## ROS Robot Operating System
+
+[Github](https://abedgnu.github.io/Notes-ROS/) or [Read the Docs](https://ros-notes.readthedocs.io/)
 
 Work in progress
 
-## [Computer vision](https://abedgnu.github.io/ComputerVision-Notes/)
+## [Computer vision]
 
-- OpenCV
-- PCL
+[Github](https://abedgnu.github.io/ComputerVision-Notes/)
 
-Work in progress
-
-## [Personal notes](https://abedgnu.github.io/Personal-notes/)
+    - OpenCV
+    - PCL
 
 Work in progress
 
-# [Projects](https://github.com/abedGNU)
+## [Personal notes]
+[Github](https://abedgnu.github.io/Personal-notes/)
+
+Work in progress
+
+# [Projects]
+[Github](https://github.com/abedGNU)
 
